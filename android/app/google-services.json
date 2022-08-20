@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251172256712",
+    "project_id": "mp3-file-uploader",
+    "storage_bucket": "mp3-file-uploader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251172256712:android:fa4d877f66faee8427defd",
+        "android_client_info": {
+          "package_name": "com.example.mp3_file_uploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251172256712-89ckfns9c11ighdlrk93im8eohrribcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvIi4NBTdgqhwmLrHgZKiC94HIWxk6ssE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251172256712-89ckfns9c11ighdlrk93im8eohrribcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
